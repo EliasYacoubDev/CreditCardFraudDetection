@@ -1,0 +1,3 @@
+# Ignore raw data and predictions
+data/
+predictions/
